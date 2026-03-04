@@ -51,9 +51,13 @@ The project includes:
 
 .
 ├── data/                # Dataset files
+
 ├── pipe.pkl             # Trained ML pipeline
+
 ├── main.py              # Streamlit app
+
 ├── requirements.txt     # Project dependencies
+
 └── README.md
 
 
