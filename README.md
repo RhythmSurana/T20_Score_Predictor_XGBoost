@@ -78,6 +78,9 @@ pip install -r requirements.txt
 
 streamlit run main.py
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/540aacf0-1297-4e4f-bd23-a5a0ee7cd37d" />
+
+
 ## Dataset : 
 
 https://www.kaggle.com/datasets/veeralakrishna/cricsheet-a-retrosheet-for-cricket
